@@ -11,6 +11,16 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		8704099E3084289E00C49AF4 /* Components */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Components;
+			sourceTree = "<group>";
+		};
+		870409A43084298000C49AF4 /* Auth */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Auth;
+			sourceTree = "<group>";
+		};
 		874BA6DB30842126007769C3 /* Dyslexia */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Dyslexia;
@@ -32,6 +42,8 @@
 			children = (
 				874BA6DB30842126007769C3 /* Dyslexia */,
 				874BA6DA30842126007769C3 /* Products */,
+				8704099E3084289E00C49AF4 /* Components */,
+				870409A43084298000C49AF4 /* Auth */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,6 +69,8 @@
 			buildRules = (
 			);
 			fileSystemSynchronizedGroups = (
+				8704099E3084289E00C49AF4 /* Components */,
+				870409A43084298000C49AF4 /* Auth */,
 				874BA6DB30842126007769C3 /* Dyslexia */,
 			);
 			name = Dyslexia;
